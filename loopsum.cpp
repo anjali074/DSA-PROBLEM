@@ -12,4 +12,4 @@ int main(){
     i=i+1;
   }
   cout<<"value of sum is"<< sum <<endl;
-}
+} 
