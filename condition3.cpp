@@ -13,6 +13,7 @@ int main(){
     else{
       cout<<"the number  of  a is zero"<<endl;
       return 0;
+      
     }
   }
 
